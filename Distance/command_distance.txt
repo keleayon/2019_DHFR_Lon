@@ -1,0 +1,3 @@
+# python PlotDistancesByCategory.py [cluster file] [structure file]
+python PlotDistancesByCategory.py Clusters_-Lon.txt DHFR_TS_QMMM.pdb
+python PlotDistancesByCategory.py Clusters_-+Lon.txt DHFR_TS_QMMM.pdb

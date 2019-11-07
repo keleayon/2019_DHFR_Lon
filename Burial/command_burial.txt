@@ -1,0 +1,1 @@
+python PlotBurial.py Clusters_all.txt 1RX1_clean.pdb,1RX4_clean.pdb,1RX5_clean.pdb,3QL3_clean.pdb 1RX1_SASA.txt,1RX4_SASA.txt,1RX5_SASA.txt,3QL3_SASA.txt 8.0
